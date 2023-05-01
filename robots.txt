@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://herald-b6ra.onrender.com/sitemap.xml
